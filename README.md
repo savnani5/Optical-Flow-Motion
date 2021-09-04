@@ -8,3 +8,14 @@ In this project try to track the motion of the vehicles on a highway using the c
 
 ## Output
 [Output](https://drive.google.com/drive/folders/1E0gIZXcGaQeKA_6DYz4oa3G7AxHGCsqc?usp=sharing)
+
+## How to run the code
+1) Change the input video directory in *main.py* file:
+
+  ```PY
+   cap = cv2.VideoCapture('Cars On Highway.mp4')
+   ```
+2) Run the below command:
+   ```sh
+   python main.py
+   ```
