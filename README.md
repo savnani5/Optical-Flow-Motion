@@ -12,7 +12,7 @@ In this project try to track the motion of the vehicles on a highway using the c
 ## How to run the code
 1) Change the input video directory in *main.py* file:
 
-  ```PY
+    ```PY
    cap = cv2.VideoCapture('Cars On Highway.mp4')
    ```
 2) Run the below command:
